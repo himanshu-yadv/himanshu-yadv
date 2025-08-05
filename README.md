@@ -1,4 +1,4 @@
-![logo](https://github.com/himanshu-yadv/himanshu-yadv/blob/main/Banner.png)
+![logo](https://github.com/himanshu-yadv/himanshu-yadv/blob/main/Photo.png)
 
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | DSA Enthusiast</h3>
