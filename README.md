@@ -13,8 +13,10 @@
 I love building scalable, user-focused applications and solving real-world problems through clean, efficient code. Passionate about learning, collaboration, and contributing to impactful tech projects.
 
 🛠️ **Recent Projects**:  
-- 🏥 [BookMyDoc](https://bookmydoc-beta.vercel.app/) – A full-stack doctor appointment booking platform
-- 🚗 [RideX](https://ridex-orpin.vercel.app/) – A ride-booking platform
+- 📈 [Sensai](https://sensai-chi-one.vercel.app/) – AI-powered career guidance platform  
+- 🏥 [BookMyDoc](https://bookmydoc-beta.vercel.app/) – Online doctor appointment booking  
+- 🚗 [RideX](https://ridex-orpin.vercel.app/) – Easy ride-booking platform
+
 
 📫 Reach me at: **himanshu_yadav.1306@outlook.com**
 
